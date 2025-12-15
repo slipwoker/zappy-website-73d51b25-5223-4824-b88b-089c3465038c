@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joca-media-73d51b25.zappy5.app/sitemap.xml
